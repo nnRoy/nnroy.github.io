@@ -27,13 +27,13 @@ main:
   #   url: /markdown/
 
   - title: "Papers"
-    url: /publications/
+    url: /cv/
 
   - title: "Competitions"
-    url: /publications/
+    url: /cv/
 
   - title: "Awards"
-    url: /publications/
+    url: /cv/
 
   - title: "CV"
     url: /cv/
